@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#ff2f92",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +18,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7d7d7d",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -103,6 +111,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 117.2,
         "distance": 978.6
       },
@@ -151,6 +162,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 74.3,
         "distance": 1027.4
       },
@@ -199,6 +213,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 157,
         "distance": 1397.6
       },
@@ -239,6 +256,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 157,
         "distance": 1397.6
       },
@@ -303,6 +323,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 123.3,
         "distance": 1646
       },
@@ -387,6 +410,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 180,
         "distance": 1505.8
       },
@@ -431,6 +457,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 185.1,
         "distance": 771
       },
@@ -467,6 +496,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff2f92",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "duration": 88.3,
         "distance": 518.6
       },
